@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+  "$basetexture" "tools/transparent"   
+   $color "{ 40 40 40 }"	
+}
